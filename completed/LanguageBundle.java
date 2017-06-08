@@ -172,7 +172,7 @@ public class LanguageBundle extends ListResourceBundle {
                     "* For more information, type: " +
                     Const.COMMAND_PREFIX + Const.COMMAND + " mixer help\n\n" +
                     "# BOTLANG\n" +
-                    "* Currently supported languages: English, Czech, German, French, Spanish\n" +
+                    "* Currently supported languages: English, Czech, German, French, Spanish, Russian, Greek, Vietnamese, Romanian, Estonian\n" +
                     "* For more information, type: " +
                     Const.COMMAND_PREFIX + Const.COMMAND + " botlang help\n\n" +
                     "# CLEANUP\n" +
