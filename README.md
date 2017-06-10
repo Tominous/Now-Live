@@ -27,7 +27,7 @@ Now Live is currently available in:
 * Russian
 * Spanish
 * Vietnamese
-* Romanian
+* Romanian (translator stopped, needs new translator)
 
 Now Live has the following translations in progress:
 * Dutch (NL)
